@@ -39,7 +39,4 @@ Let's connect and build something impactful! Connect with me on LinkedIn! [![Lin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=christian-braimah&theme=radical">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christian-braimah&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-braimah&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christian-braimah&theme=radical)
 
