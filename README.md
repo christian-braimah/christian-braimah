@@ -28,6 +28,16 @@ Let's connect and build something impactful! Connect with me on LinkedIn! [![Lin
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christian-braimah&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-braimah&layout=compact&theme=radical" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christian-braimah&theme=radical">
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christian-braimah&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-braimah&layout=compact&theme=radical)
