@@ -1,12 +1,9 @@
 # Hi there, I am Christian 👋
 
-I am a passionate aspiring Full-Stack Developer currently mastering modern web technologies at Langara College.
+Full-Stack Developer | JavaScript • React • Node.js
 
-My background includes 5 years of experience in User Experience and Graphic Design, where I built a robust framework in delivering complex projects—particularly on a global stage.
-
-My enthusiasm for problem-solving fueled my pivot to software engineering. I am deeply focused on developing with JavaScript, React, and Node.js, and I aim to leverage my  and team collaboration skills to architect and deliver innovative software solutions.
-
-Let's connect and build something impactful! Connect with me on LinkedIn! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-braimah/)
+Currently studying at Langara College with 5 years of UX/Design experience in my toolkit. I've delivered complex projects globally and now I'm channeling that expertise into building scalable web applications. My design background + engineering mindset = solutions that work beautifully. Open to collaborations and opportunities—let's build something great!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-braimah/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://www.chrisbraimah.com/)
 
 ## 🛠️ Tech Stack
