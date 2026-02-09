@@ -8,18 +8,7 @@ My enthusiasm for problem-solving fueled my pivot to software engineering. I am 
 
 Let's connect and build something impactful! Connect with me on LinkedIn!
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology]**
-- 👯 I'm looking to collaborate on **[Type of projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[email/social]**
-- ⚡ Fun fact: **[Something interesting about you]**
-
 ## 🛠️ Tech Stack
-
-### Languages
-## 🛠️ Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
