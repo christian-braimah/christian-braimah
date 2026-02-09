@@ -42,9 +42,9 @@ Let's connect and build something impactful! Connect with me on LinkedIn!
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=christian-braimah&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-braimah&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christian-braimah&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=christian-braimah&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=christian-braimah&layout=compact&theme=radical)
+!(https://github-readme-streak-stats.herokuapp.com/?user=christian-braimah&theme=radical)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-braimah/)
