@@ -56,7 +56,7 @@ Let's connect and build something impactful! Connect with me on LinkedIn!
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](chrisbraimah.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://www.chrisbraimah.com/)
 
 ---
 ⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
