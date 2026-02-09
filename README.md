@@ -6,7 +6,8 @@ My background includes 5 years of experience in User Experience and Graphic Desi
 
 My enthusiasm for problem-solving fueled my pivot to software engineering. I am deeply focused on developing with JavaScript, React, and Node.js, and I aim to leverage my  and team collaboration skills to architect and deliver innovative software solutions.
 
-Let's connect and build something impactful! Connect with me on LinkedIn!
+Let's connect and build something impactful! Connect with me on LinkedIn! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-braimah/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://www.chrisbraimah.com/)
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,8 +32,4 @@ Let's connect and build something impactful! Connect with me on LinkedIn!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=christian-braimah&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-braimah&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christian-braimah&theme=radical)
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-braimah/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://www.chrisbraimah.com/)
 
