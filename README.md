@@ -29,8 +29,5 @@ Currently studying at Langara College with 5 years of UX/Design experience in my
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-braimah&layout=compact&theme=radical" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christian-braimah&theme=radical">
-</p>
 
 
