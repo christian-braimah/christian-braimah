@@ -2,7 +2,7 @@
 
 Full-Stack Developer | JavaScript • React • Node.js
 
-Currently studying at Langara College with 5 years of UX/Design experience in my toolkit. I've delivered complex projects globally and now I'm channeling that expertise into building scalable web applications. My design background + engineering mindset = solutions that work beautifully. Open to collaborations and opportunities—let's build something great!
+I've delivered complex projects globally and now I'm channeling that expertise into building scalable web applications. My design background + engineering mindset = solutions that work beautifully. Open to collaborations and opportunities—let's build something great!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-braimah/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://www.chrisbraimah.com/)
 
